@@ -9,6 +9,7 @@
 - MediatR / CQRS
 - SignalR
 - Simple Logging and Exception Handling
+- Unit Tests
 
 ## Setup
 - No additional setup required, just build & start the app.
